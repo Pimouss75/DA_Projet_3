@@ -1,0 +1,17 @@
+Fichiers nécessaires (fao):
+    pop20122013.csv
+    veget.csv
+    anim.csv
+    q10.csv
+    q16veg.csv
+    q16ani.csv
+    q17.csv
+    q18.csv
+
+    Fichiers générés:(questions 15 à 18)
+    population.csv
+    equilibre_prod.csv
+    sous_nutrition.csv
+    dispo_alim.csv
+    
+    Projet_3.db(généré avec sqlitestudio a partir des 4 fichiers précédement générés)
